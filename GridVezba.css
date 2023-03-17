@@ -1,0 +1,13 @@
+.Gridedit {
+    display: grid;
+    grid-template-columns: 2fr 2fr 2fr 2fr;
+    column-gap: 20px;
+    row-gap: 10px;
+}
+
+.dvesta {
+    background-color: mediumaquamarine;
+}
+.sedamdesetpet {
+    background-color: blueviolet;
+}
